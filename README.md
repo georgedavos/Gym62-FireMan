@@ -1,5 +1,7 @@
 ![62 Γυμνάσιο Αθηνών](https://raw.githubusercontent.com/georgedavos/Gym62-FireMan/Images/62Buge.png)
 
+![62 Γυμνάσιο Αθηνών](./Images/62Buge.png)
+
 # Gym62-FireMan
 Αυτόνομο Όχημα Ανίχνευσης Θέσης Πυρκαϊάς
 
