@@ -1,5 +1,3 @@
-![62 Γυμνάσιο Αθηνών](https://raw.githubusercontent.com/georgedavos/Gym62-FireMan/Images/62Buge.png)
-
 ![62 Γυμνάσιο Αθηνών](./Images/62Buge.png)
 
 # Gym62-FireMan
@@ -9,7 +7,7 @@
 
 Το Gym62-FireMan βασίστηκε σε ένα ερπυστριοφόρο σκάφος εκσκαφέα, το οποίο τροποποιήθηκε κατάλληλα για τις ανάγκες του έργου, ελάχιστης αξίας, και σε έναν ειδικό αισθητήρα παράταξης υπερύθρων ακτίνων. 
 
-![Gym62 Front](https://raw.githubusercontent.com/georgedavos/Gym62-FireMan/Images/Gym62-Front.jpg)
+![Gym62 Front](./Images/Gym62-Front.jpg)
 
 Περιγραφή πλοήγησης
 
