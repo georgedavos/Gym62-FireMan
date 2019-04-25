@@ -36,7 +36,7 @@
 ![MM3-1](./Images/MM3-3D1.jpg)
 
 
-Περιγραφή περιεχομένων των αρχείων και των φακέλων που έχουν ενσωματωθεί στο github βρίσκεται σε αρχείο με όνομα "GYM62-FIREMAN-TreeOfFiles-Description" στον ίδιο κατάλογο με το παρόν.
+Περιγραφή περιεχομένων των αρχείων και των φακέλων που έχουν ενσωματωθεί στο github βρίσκεται σε αρχείο με όνομα "GYM62-FIREMAN-TreeOfFiles-Description" στον ίδιο κατάλογο με το παρόν ( https://github.com/georgedavos/Gym62-FireMan/blob/master/GYM62-FIREMAN-TreeOfFiles-Description.odt ).
 
 Παρατίθεται βίντεο του έργου στο κανάλι youtube του σχολείου (62ο Γυμνάσιο Αθήνας) : https://www.youtube.com/watch?v=zAY0CPyWmjs
 
