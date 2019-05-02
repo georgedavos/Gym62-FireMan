@@ -40,4 +40,5 @@
 
 Παρατίθεται βίντεο του έργου στο κανάλι youtube του σχολείου (62ο Γυμνάσιο Αθήνας) : https://www.youtube.com/watch?v=zAY0CPyWmjs
 
+[![The Team](./Images/TheTeam.png)](https://www.youtube.com/watch?v=zAY0CPyWmjs)
 
